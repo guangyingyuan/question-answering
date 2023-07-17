@@ -1,0 +1,14 @@
+requests
+pandas
+datasets
+huggingface_hub
+fsspec
+aiohttp
+sacrebleu 
+python-dotenv 
+pyinstaller 
+openpyxl
+nltk 
+rouge_score
+Flask
+flask_restful
